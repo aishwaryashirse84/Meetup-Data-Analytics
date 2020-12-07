@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="meetup" target="11" />
+      <module name="meetup" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
